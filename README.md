@@ -6,3 +6,4 @@ To create forms that let users view, edit, and create Salesforce records, use th
 2. Lightning-record-edit-form – Displays an editable form. 
 3. Lightning-record-view-form – Displays a read-only form. 
 4. Lightning-record-* - implements Lightning Data Service and **doesn’t require additional Apex controllers to create or edit record data**. It also takes care of field-level security and sharing for you, so users see only the data that they have access to 
+![image](https://github.com/user-attachments/assets/3035797f-cc82-4e5b-bdd1-19101f4b0861)
