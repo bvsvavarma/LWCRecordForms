@@ -35,4 +35,4 @@ When creating a new record, only the full layout is supported.
 3. **mode**: Specifies the interaction and display style for the form.
    Possible values: view, edit, readonly.
    If a record ID is not provided, the default mode is edit, which displays a form to create new records.
-   If a record ID is provided, the default mode is view, which displays field values with edit icons on updateable fields.
+   If a record ID is provided, the **default mode is view**, which displays field values with edit icons on updateable fields.
