@@ -11,3 +11,19 @@ To create forms that let users view, edit, and create Salesforce records, use th
    
 ![image](https://github.com/user-attachments/assets/fb2f0a92-fd1c-4d96-8424-c0546acf4e9f)
 
+**Record Form**
+
+1. Qucikly create forms to **add, view, or update a record.**
+2. Create record forms is easier than building form manually.
+3. The **object-api-name attribute** always required, and the **record-id** is required when you're editing or viewing a record.
+![image](https://github.com/user-attachments/assets/2e2690ee-3f2f-4904-8689-45992a6df3cf)
+
+**Benefits:**
+1. Switches between view and edit modes automatically.
+2. Provides Cancel & Save buttons automatically in edit forms.
+3. Uses object default record layout with multi column support.
+4. Loads all fields in the objects compact or full layout, or only fileds specified.
+
+**Limitations:**
+Lightning-record-form is less customizable. To customize the form layout or provide custom rendering of record data, use ightning-record-edit-form (add or update a record) and lightning-record-view-from (view a record).
+
