@@ -32,7 +32,7 @@ Lightning-record-form is less customizable. To customize the form layout or prov
 1. **columns**: Specifies the number of columns for the form.
 2. **layout-type**: The type of layout to use to display the form fields. Possible values: Compact, Full.
 When creating a new record, only the full layout is supported.
-3. mode: Specifies the interaction and display style for the form.
+3. **mode**: Specifies the interaction and display style for the form.
    Possible values: view, edit, readonly.
    If a record ID is not provided, the default mode is edit, which displays a form to create new records.
    If a record ID is provided, the default mode is view, which displays field values with edit icons on updateable fields.
