@@ -28,3 +28,7 @@ To create forms that let users view, edit, and create Salesforce records, use th
 **Limitations:**
 Lightning-record-form is less customizable. To customize the form layout or provide custom rendering of record data, use ightning-record-edit-form (add or update a record) and lightning-record-view-from (view a record).
 
+**Properties (https://developer.salesforce.com/docs/component-library/bundle/lightning-record-form/specification)**
+1. **columns**: Specifies the number of columns for the form.
+2. **layout-type**: The type of layout to use to display the form fields. Possible values: Compact, Full.
+When creating a new record, only the full layout is supported.
