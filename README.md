@@ -16,6 +16,7 @@ To create forms that let users view, edit, and create Salesforce records, use th
 1. Qucikly create forms to **add, view, or update a record.**
 2. Create record forms is easier than building form manually.
 3. The **object-api-name attribute** always required, and the **record-id** is required when you're editing or viewing a record.
+   
 ![image](https://github.com/user-attachments/assets/2e2690ee-3f2f-4904-8689-45992a6df3cf)
 
 **Benefits:**
