@@ -55,3 +55,15 @@ Additionally, lightning-record-form supports the following custom events.
 **Benefits**
 1. Customizing the form layout.
 2. Custom rendering of record data.
+
+**Record Edit Form**
+![image](https://github.com/user-attachments/assets/101089bb-473f-4427-9457-5f8a6e1ccd59)
+
+1. Use the lightning-record-edit-form component to create a form that's used to add a Salesforce record or update fields in an existing record on an object.
+2. To specify editable fields, use lightning-input-field components inside lightning-record-edit-form component.
+3. To display record fields as read-only in lightning-record-edit-form, use lightning-output-field components to specify those fields.
+
+**Benefits**
+1. Customizing the for layout.
+2. Custom rendering of record data.
+
