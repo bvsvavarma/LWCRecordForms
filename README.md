@@ -36,3 +36,9 @@ When creating a new record, only the full layout is supported.
    Possible values: view, edit, readonly.
    If a record ID is not provided, the default mode is edit, which displays a form to create new records.
    If a record ID is provided, the **default mode is view**, which displays field values with edit icons on updateable fields.
+
+Additionally, lightning-record-form supports the following custom events.
+1. error
+2. load
+3. submit
+4. success
