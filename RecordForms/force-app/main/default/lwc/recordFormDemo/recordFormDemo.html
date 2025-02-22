@@ -23,6 +23,7 @@
         fields={fieldList} 
         columns="2" 
         mode="edit" 
+        onsuccess={showToast}
         ></lightning-record-form> 
     </lightning-card> 
     <lightning-card title="Record From Demo - Add record"> 
@@ -30,6 +31,7 @@
         object-api-name={objectApiName} 
         fields={fieldList} 
         columns="2" 
+        onsuccess={navigateToRecordPage}
         ></lightning-record-form> 
     </lightning-card> 
     </template> 
