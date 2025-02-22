@@ -46,6 +46,7 @@ Additionally, lightning-record-form supports the following custom events.
 
 
 **Record View Form**
+
 ![image](https://github.com/user-attachments/assets/5cb89714-4b09-4b7f-810f-fc4cbe09a7af)
 
 1. Form that displays Salesforce record data for specific fields associated with that record.
@@ -57,6 +58,7 @@ Additionally, lightning-record-form supports the following custom events.
 2. Custom rendering of record data.
 
 **Record Edit Form**
+
 ![image](https://github.com/user-attachments/assets/101089bb-473f-4427-9457-5f8a6e1ccd59)
 
 1. Use the lightning-record-edit-form component to create a form that's used to add a Salesforce record or update fields in an existing record on an object.
