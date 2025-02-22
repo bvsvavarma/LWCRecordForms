@@ -42,3 +42,16 @@ Additionally, lightning-record-form supports the following custom events.
 2. load
 3. submit
 4. success
+
+
+
+**Record View Form**
+![image](https://github.com/user-attachments/assets/5cb89714-4b09-4b7f-810f-fc4cbe09a7af)
+
+1. Form that displays Salesforce record data for specific fields associated with that record.
+2. To specify read-only fields, use lightning-output-field components insdide lightning-record-view-form.
+3. lightning-record-view-form requires a record ID to display the fields on the record.
+
+**Benefits**
+1. Customizing the form layout.
+2. Custom rendering of record data.
