@@ -4,6 +4,7 @@ import INDUSTRY_FIELD from '@salesforce/schema/Account.Industry';
 import RATING_FIELD from '@salesforce/schema/Account.Rating'; 
 import REVENUE_FILED from '@salesforce/schema/Account.AnnualRevenue'; 
 export default class RecordViewFormDemo extends LightningElement {
+    //Fields to display in UI
     fieldObject = {
         Name : NAME_FIELD,
         Industry : INDUSTRY_FIELD,
